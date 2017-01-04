@@ -5,3 +5,5 @@ https://esperanzzza.github.io/201117-technomart/
 https://esperanzzza.github.io/pink/
 - **Project 'Barbershop Borodinski'**
 https://esperanzzza.github.io/201117-barbershop/
+- **Project 'New-look'**
+https://esperanzzza.github.io/new-look/
