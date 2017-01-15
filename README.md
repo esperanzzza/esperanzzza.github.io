@@ -5,5 +5,7 @@ https://esperanzzza.github.io/201117-technomart/
 https://esperanzzza.github.io/pink/
 - **Project 'Barbershop Borodinski'**
 https://esperanzzza.github.io/201117-barbershop/
-- **Project 'New-look'**
+- **Landing 'New-look'**
 https://esperanzzza.github.io/new-look/
+-**Responsive landing 'Jason Wood Photography'**
+https://esperanzzza.github.io/j-wood/
