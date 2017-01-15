@@ -7,5 +7,5 @@ https://esperanzzza.github.io/pink/
 https://esperanzzza.github.io/201117-barbershop/
 - **Landing 'New-look'**
 https://esperanzzza.github.io/new-look/
--**Responsive landing 'Jason Wood Photography'**
+- **Responsive landing 'Jason Wood Photography'**
 https://esperanzzza.github.io/j-wood/
